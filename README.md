@@ -1,5 +1,7 @@
 # Infra as code (Pulumi/aws)
 
+Hosting static html pages in aws 3s
+
 - `aws configure` to add authentication credentials
 - `pulumi new aws-typescript` to create a new pulumi aws ts project
 - `pulumi config set <key>` to create a new config variable
